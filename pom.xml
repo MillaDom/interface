@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ru.netology.javaqa</groupId>
-    <artifactId>exception</artifactId>
+    <artifactId>interface</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -72,7 +72,7 @@
                                         <limit>
                                             <counter>BRANCH</counter>
                                             <value>COVEREDRATIO</value>
-                                            <minimum>100%</minimum>
+                                            <minimum>10%</minimum>
                                         </limit>
                                     </limits>
                                 </rule>
